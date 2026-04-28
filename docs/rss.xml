@@ -1,2 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kathy's Blog</title><link>https://KessieWang.github.io/kathy.github.io</link><description>xdu student</description><copyright>Kathy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/113979777?v=4&amp;size=64</url><title>avatar</title><link>https://KessieWang.github.io/kathy.github.io</link></image><lastBuildDate>Mon, 27 Apr 2026 17:17:32 +0000</lastBuildDate><managingEditor>Kathy's Blog</managingEditor><ttl>60</ttl><webMaster>Kathy's Blog</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Kathy's Blog</title><link>https://KessieWang.github.io/kathy.github.io</link><description>xdu student</description><copyright>Kathy's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/113979777?v=4&amp;size=64</url><title>avatar</title><link>https://KessieWang.github.io/kathy.github.io</link></image><lastBuildDate>Tue, 28 Apr 2026 17:43:53 +0000</lastBuildDate><managingEditor>Kathy's Blog</managingEditor><ttl>60</ttl><webMaster>Kathy's Blog</webMaster><item><title>minimind study</title><link>https://KessieWang.github.io/kathy.github.io/post/minimind%20study.html</link><guid isPermaLink="true">https://KessieWang.github.io/kathy.github.io/post/minimind%20study.html</guid><pubDate>Mon, 16 Mar 2026 09:16:26 +0000</pubDate></item><item><title>how to use git</title><link>https://KessieWang.github.io/kathy.github.io/post/how%20to%20use%20git.html</link><description>- [vscode+git+github 视频教程](https://www.bilibili.com/video/BV1Hkr7YYEh8/?spm_id_from=333.788.recommend_more_video.1&amp;trackid=web_related_0.router-related-2481894-96shx.1773659228342.138&amp;vd_source=e4d2c23661f438bbb039b810b5e86053) 
+
+### 本地仓库同步到github
+- 本地创建仓库（或者叫项目/存档），然后在 vscode 中使用 git 工具推送到远程服务器 github
+- github-Settings-可修改仓库名字
+-  克隆项目：`git clone https://github.com/joyehuang/minimind-notes.git`
+- 本地仓库目录下运行 `git log` 可查看历史提交
+- 回滚？
+- 删除？
+
+&lt;img width='705' height='906' alt='Image' src='https://github.com/user-attachments/assets/87be6875-9c7e-4426-81e2-62432d48343d' /&gt;
+
+### 提交到github已有的仓库
+- 初始化仓库：点击[···]-远程-添加远程仓库
+- ...不建议，还是把分支拉取下来再提交吧
+
+&lt;img width='1399' height='1003' alt='Image' src='https://github.com/user-attachments/assets/b3a1888e-a9ec-4314-8e95-f1ff573a13b6' /&gt;
+
+&lt;img width='1212' height='601' alt='Image' src='https://github.com/user-attachments/assets/a522cfe6-401a-4372-9baa-2dab7f6e49a0' /&gt;
+。</description><guid isPermaLink="true">https://KessieWang.github.io/kathy.github.io/post/how%20to%20use%20git.html</guid><pubDate>Mon, 16 Mar 2026 09:08:01 +0000</pubDate></item></channel></rss>
